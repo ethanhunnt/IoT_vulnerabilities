@@ -18,10 +18,10 @@ Amcrest -- CVE-2017-8229, CVE-2017-8226, CVE-2017-8226, CVE-2017-8227, CVE-2017-
 
 ## Vendors for all the devices were contacted and given more than 90 days to fix all the issues. The following vendors responded and have patches for these devices
 
-Vera
-Securifi
-Blipcare
-Amcrest
+1. Vera
+2. Securifi
+3. Blipcare
+4. Amcrest
 
 ## The following vendors did not respond to our requests
 
