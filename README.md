@@ -16,18 +16,18 @@ Blipcare -- CVE-2017-11578, CVE-2017-11579, CVE-2017-11580
 
 Amcrest -- CVE-2017-8229, CVE-2017-8226, CVE-2017-8226, CVE-2017-8227, CVE-2017-8228, CVE-2017-13719
 
-Vendors for all the devices were contacted and given more than 90 days to fix all the issues. The following vendors responded and have patches for these devices
+## Vendors for all the devices were contacted and given more than 90 days to fix all the issues. The following vendors responded and have patches for these devices
 
 Vera
 Securifi
 Blipcare
 Amcrest
 
-The following vendors did not respond to our requests
+## The following vendors did not respond to our requests
 
 Starry
 Shekar
 
-The following vendors could not release patches as the product had reached end of lifetime
+## The following vendors could not release patches as the product had reached end of lifetime
 
 Dlink 
