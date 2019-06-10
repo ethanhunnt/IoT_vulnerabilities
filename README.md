@@ -25,9 +25,9 @@ Amcrest -- CVE-2017-8229, CVE-2017-8226, CVE-2017-8226, CVE-2017-8227, CVE-2017-
 
 ## The following vendors did not respond to our requests
 
-Starry
-Shekar
+1. Starry
+2. Shekar
 
 ## The following vendors could not release patches as the product had reached end of lifetime
 
-Dlink 
+1. Dlink 
