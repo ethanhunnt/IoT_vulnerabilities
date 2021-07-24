@@ -16,6 +16,10 @@ Blipcare -- CVE-2017-11578, CVE-2017-11579, CVE-2017-11580
 
 Amcrest -- CVE-2017-8229, CVE-2017-8226, CVE-2017-8226, CVE-2017-8227, CVE-2017-8228, CVE-2017-13719
 
+Depstech -- CVE-2020-12732, CVE-2020-12734, CVE-2020-12733
+
+MagicMotion -- CVE-2020-12730, CVE-2020-12729, CVE-2020-12731
+
 ## Vendors for all the devices were contacted and given more than 90 days to fix all the issues. 
 
 ## The following vendors responded and have patches for the devices
