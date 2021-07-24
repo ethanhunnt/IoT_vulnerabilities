@@ -33,6 +33,8 @@ MagicMotion -- CVE-2020-12730, CVE-2020-12729, CVE-2020-12731
 
 1. Starry
 2. Shekar
+3. Depstech
+4. MagicMotion
 
 ## The following vendors could not release patches as the product had reached end of lifetime
 
